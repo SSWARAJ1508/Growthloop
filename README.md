@@ -29,3 +29,4 @@ Outputs to `dist/`.
 - `/analytics` — Trend charts and revenue impact
 - `/settings` — Profile and notification preferences
 # Growthloop
+# Growthloop
